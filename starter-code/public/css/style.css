@@ -13,14 +13,35 @@
 body{
   background-color: black;
   color: #E4EDF6;
+  text-align: center;
+  font-family:
 
 }
 
-
-.navbar-form {
+/*
+.navbar-form .navbar-left {
   float:right;
 }
 
 .navbar-brand .navbar-collapse {
  color: #F8F6F6;
+}*/
+
+
+/*About Page CSS*/
+.local{
+  width: 100%;
+  height: 300px;
+}
+
+.beerpour {
+  height: 300px;
+}
+
+
+/* Gallery Page CSS*/
+
+.gallery{
+  text-align: center;
+  color:#CF4647;
 }

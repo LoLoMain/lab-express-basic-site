@@ -1,13 +1,14 @@
-.navbar-default {
-  background-color:#CF4647;
-  color: white;
-  text-align: center;
-  border: none;
-}
+/*Home Page CSS*/
 
 .beer-img{
  margin-top: 51px;
  width: 100%;
+}
+
+nav > a {
+  text-decoration: none;
+  color:#CF4647;
+  padding: 20px;
 }
 
 body{
@@ -15,18 +16,15 @@ body{
   color: #E4EDF6;
   text-align: center;
   font-family:
-
 }
 
-/*
-.navbar-form .navbar-left {
-  float:right;
+.row .about {
+  margin-top: 20px;
 }
 
-.navbar-brand .navbar-collapse {
- color: #F8F6F6;
-}*/
-
+.events{
+ list-style-type:none;
+}
 
 /*About Page CSS*/
 .local{
@@ -34,8 +32,10 @@ body{
   height: 300px;
 }
 
-.beerpour {
-  height: 300px;
+.beepour {
+  height: 250px;
+  width: 275px;
+
 }
 
 

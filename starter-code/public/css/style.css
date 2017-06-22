@@ -1,0 +1,26 @@
+.navbar-default {
+  background-color:#CF4647;
+  color: white;
+  text-align: center;
+  border: none;
+}
+
+.beer-img{
+ margin-top: 51px;
+ width: 100%;
+}
+
+body{
+  background-color: black;
+  color: #E4EDF6;
+
+}
+
+
+.navbar-form {
+  float:right;
+}
+
+.navbar-brand .navbar-collapse {
+ color: #F8F6F6;
+}
